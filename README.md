@@ -1,2 +1,2 @@
-# barbcode2016-ed2
-Barbcode presentations
+**BarbeCode 2016**
+2nd edition
